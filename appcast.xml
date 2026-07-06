@@ -3,11 +3,12 @@
   <channel>
     <title>AgentBar</title>
     <item>
-      <title>AgentBar 0.1.1</title>
-      <description><![CDATA[- A new weekly usage card for Fable, shown alongside the existing session and weekly gauges.]]></description>
-      <sparkle:version>104</sparkle:version>
-      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/oakif/agent-bar-releases/releases/download/v0.1.1/AgentBar-0.1.1.dmg" sparkle:edSignature="tGMbYJBfv28oSAGd9vxjudcwUWV6Z/CYdGEPc8B3U32XmmLGgj2dtJiDOl3fpJ1Oa0JoITdousMs9LSSCPFmDg==" length="4927385" type="application/octet-stream"/>
+      <title>AgentBar 0.1.2</title>
+      <description><![CDATA[- Fixed a bug causing high CPU use and battery drain
+- Brief connection hiccups (like waking from sleep) no longer show a false "connection failed" banner]]></description>
+      <sparkle:version>110</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <enclosure url="https://github.com/oakif/agent-bar-releases/releases/download/v0.1.2/AgentBar-0.1.2.dmg" sparkle:edSignature="w5+e/YQ0Icyj6L/DWRFCNaxSTpS81ozP/wMxSVQPeBFQMUJCZ0mnaR1trCP1s6TV4AJ8l97CExbwrtxnwpveCg==" length="4931386" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
