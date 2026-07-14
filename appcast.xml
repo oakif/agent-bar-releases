@@ -3,12 +3,28 @@
   <channel>
     <title>AgentBar</title>
     <item>
-      <title>AgentBar 0.1.2</title>
-      <description><![CDATA[- Fixed a bug causing high CPU use and battery drain
-- Brief connection hiccups (like waking from sleep) no longer show a false "connection failed" banner]]></description>
-      <sparkle:version>110</sparkle:version>
-      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
-      <enclosure url="https://github.com/oakif/agent-bar-releases/releases/download/v0.1.2/AgentBar-0.1.2.dmg" sparkle:edSignature="w5+e/YQ0Icyj6L/DWRFCNaxSTpS81ozP/wMxSVQPeBFQMUJCZ0mnaR1trCP1s6TV4AJ8l97CExbwrtxnwpveCg==" length="4931386" type="application/octet-stream"/>
+      <title>AgentBar 0.2.0</title>
+      <description><![CDATA[### Settings, rebuilt
+- Brand-new settings window with searchable settings
+- Profile picker with per-account settings
+- New dropdown background options
+- New daily spend heatmap in Settings > Usage
+
+### API-equivalent cost card
+- New cost card showing local Claude Code usage at pay-as-you-go API rates
+
+### Menu bar dropdown
+- Account switcher chips for multi-profile setups
+- Rearrange widgets and hide widgets you don't use
+- Plan-tier badge with plan-switch markers on the usage charts
+- Refreshed menu bar color palette with custom colors
+
+### Fixes and internals
+- Fixed a flicker when hovering over usage bars
+- Optimized size of history DB with tiered retention]]></description>
+      <sparkle:version>218</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/oakif/agent-bar-releases/releases/download/v0.2.0/AgentBar-0.2.0.dmg" sparkle:edSignature="uri8CL4kT0CwGs1huGLUVUrSJo4fz4XSmFV/vXu9ou9+QswsV0nE5/ILghsF0+tpB+4uOLNvYcwD/oKUUIrwCQ==" length="5534163" type="application/octet-stream"/>
     </item>
   </channel>
 </rss>
